@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Microsoft Word Secrets*](http://www.apress.com/9781484230770) by Flavio Morgado (Apress, ).
+This repository accompanies [*Microsoft Word Secrets*](http://www.apress.com/9781484230770) by Flavio Morgado (Apress, 2017).
 
 [comment]: #cover
 
